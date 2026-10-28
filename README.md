@@ -3,6 +3,8 @@
 Painel simples para controlar orçamentos, entradas, despesas e clientes.
 Feito em HTML, CSS e JavaScript puro: **não precisa instalar nada**.
 
+**Ver online:** https://davizinhoscfg.github.io/gestao-financeira/
+
 ## Como abrir
 
 Dê dois cliques em `index.html` (abre no Chrome, Edge ou Firefox).
