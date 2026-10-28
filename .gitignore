@@ -1,0 +1,12 @@
+# Imagens de referência de design (de terceiros)
+referencias/
+
+# Backups gerados pelo sistema
+backup-*.json
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.claude/
